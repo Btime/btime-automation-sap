@@ -39,8 +39,10 @@ urllib3==2.2.1
 ```
 
 4. Crie um .env com as seguintes variaveis de configuração:
-[STEPS]: /path/local/steps.yaml
-[WINIUM_DRIVER]: /path/local/winium.desktop.exe
+```
+STEPS = /path/local/steps.yaml
+WINIUM_DRIVER = /path/local/winium.desktop.exe
+```
 
 ## Logs 
 Os logs de execução são armazenados no arquivo `log.log` na raiz do projeto.
