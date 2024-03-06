@@ -50,3 +50,7 @@ Os logs de execução são armazenados no arquivo `log.log` na raiz do projeto.
 ## Uso
 Após configurado, inicie a automação.
 
+```
+python ./main.py
+```
+
