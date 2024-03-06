@@ -42,6 +42,9 @@ urllib3==2.2.1
 [STEPS] = /path/local/steps.yaml
 [WINIUM_DRIVER] = /path/local/winium.desktop.exe
 
+## Logs 
+Os logs de execução são armazenados no arquivo `log.log` na raiz do projeto.
+
 ## Uso
 Após configurado, inicie a automação.
 
